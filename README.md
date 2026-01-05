@@ -1,4 +1,4 @@
-# ECG Arrhythmia Detection Using Discrete Wavelet Transform 
+# ECG PVC Arrhythmia Detection Using Discrete Wavelet Transform 
 --- 
 Author: Laurie Hernández
 
