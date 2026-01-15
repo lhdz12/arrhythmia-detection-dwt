@@ -93,7 +93,7 @@ This makes DWT particularly well-suited for identifying arrhythmias with distinc
 
 ## 📁 Repository Structure
 ```
-├── ecg_arrhythmia_detection.ipynb   # Main Jupyter notebook
+├── dwt_python_model.ipynb   # Main Jupyter notebook
 ├── README.md                         # This file
 ├── requirements.txt                  # Python dependencies
 └── report/                           # LaTeX report (coming soon)
